@@ -1,0 +1,32 @@
+body{
+    font-family:sans-serif
+}
+h2{
+    color:rgb(255, 0, 0);
+}
+.header{
+    background-color:aqua;
+    display:flex;
+    justify-content: space-evenly;
+}
+.grid{
+    background-color:rgb(255, 0, 0);
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: center;
+}
+.item{
+    background-color:rgb(255, 145, 0);
+    display:flex;
+    justify-content:center;
+}
+.info{
+    background-color:rgb(0, 17, 255);
+    display:flex;
+    justify-content: space-evenly;
+}
+.moreinfo{
+    background-color:rgb(0, 17, 255);
+    display:flex;
+    justify-content: space-evenly;
+}
